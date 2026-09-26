@@ -1,7 +1,7 @@
 {
   "dealership": "Kokanee Ford Sales Ltd",
-  "generated_at": "2026-09-25T22:32:35",
-  "vehicle_count": 46,
+  "generated_at": "2026-09-25T22:36:29",
+  "vehicle_count": 45,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -128,19 +128,6 @@
       "condition": "new"
     },
     {
-      "name": "2025FORDESCAPEST-LINE 4DR ALL-WHEEL DRIVE (300A)",
-      "vin": "1FMCU9MN7SUA39767",
-      "stock": "25S783",
-      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/9ec7af754fd4.html",
-      "source_url": "https://www.kokaneeford.com/new/vehicle/2025-ford-escape-st-line-id13844430.htm",
-      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2025-ford-escape-st-line-id13844430.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:41:05",
-      "price": 33488.0,
-      "price_currency": "CAD",
-      "odometer_km": 13522,
-      "condition": "new"
-    },
-    {
       "name": "2025FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (702A)",
       "vin": "1FTFW7LD6SFA55844",
       "stock": "25T921",
@@ -172,7 +159,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/b9c2c8ed5342.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-badlands-id15333020.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-badlands-id15333020.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:41:32",
+      "last_verified": "2026-09-25T22:34:53",
       "price": 56329.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -184,7 +171,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/a008aa3cd5cd.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15377808.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15377808.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:41:40",
+      "last_verified": "2026-09-25T22:35:02",
       "price": 44944.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -196,7 +183,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/556a610a893e.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15377809.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15377809.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:41:49",
+      "last_verified": "2026-09-25T22:35:11",
       "price": 44110.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -208,8 +195,20 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/addb1bb13a9b.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id14926534.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id14926534.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:41:58",
+      "last_verified": "2026-09-25T22:35:20",
       "price": 49415.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
+      "vin": "3FMCR9CNXTRF11908",
+      "stock": "26S064",
+      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/16bdc8c68df3.html",
+      "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15411306.htm",
+      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15411306.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T22:34:05",
+      "price": 51679.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -280,7 +279,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/1a09bfbcf944.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-lariat-id15260362.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-lariat-id15260362.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:42:55",
+      "last_verified": "2026-09-25T22:36:09",
       "price": 95765.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -292,7 +291,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/7ae30ece4052.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-raptor-id15377810.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-raptor-id15377810.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:05",
+      "last_verified": "2026-09-25T22:36:17",
       "price": 117944.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -304,20 +303,8 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/e9a39cf5af1a.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15203252.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15203252.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:14",
+      "last_verified": "2026-09-25T22:36:25",
       "price": 78685.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (200B)",
-      "vin": "1FTEW2LP3TKE95893",
-      "stock": "26T055",
-      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/4afcfaae2db3.html",
-      "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15377812.htm",
-      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15377812.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:22",
-      "price": 67614.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -342,18 +329,6 @@
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-tremor-id15377811.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T21:43:39",
       "price": 88314.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
-      "vin": "1FTFW3L85TKE20051",
-      "stock": "26T014",
-      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/aa9b8e34a94f.html",
-      "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15166952.htm",
-      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15166952.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:48",
-      "price": 83285.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -547,6 +522,18 @@
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-ranger-xlt-id14948140.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T21:46:10",
       "price": 61340.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDF-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW (713A)",
+      "vin": "1FT8W3BM2VEC19216",
+      "stock": "27T065",
+      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/bc2f8db6fcc6.html",
+      "source_url": "https://www.kokaneeford.com/new/vehicle/2027-ford-f-350-platinum-id15411307.htm",
+      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2027-ford-f-350-platinum-id15411307.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T22:34:15",
+      "price": 137049.0,
       "price_currency": "CAD",
       "condition": "new"
     }
