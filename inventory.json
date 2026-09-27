@@ -1,7 +1,7 @@
 {
   "dealership": "Kokanee Ford Sales Ltd",
-  "generated_at": "2026-09-26T22:35:26",
-  "vehicle_count": 45,
+  "generated_at": "2026-09-26T22:40:41",
+  "vehicle_count": 46,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -285,6 +285,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5L82TFB71681",
+      "stock": "26T067",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/4826e585c398.html",
+      "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-lariat-id15413954.htm",
+      "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-lariat-id15413954.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T22:38:22",
+      "price": 96570.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
       "vin": "1FTFW1RG0TFC09027",
       "stock": "26T052",
@@ -315,7 +328,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/4edd029e30a2.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15377814.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-stx-id15377814.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:30",
+      "last_verified": "2026-09-26T22:38:31",
       "price": 73694.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -327,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/fa1fbf529d9e.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-tremor-id15377811.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-tremor-id15377811.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:39",
+      "last_verified": "2026-09-26T22:38:40",
       "price": 88314.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -339,7 +352,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/d11b9e87e036.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15272952.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15272952.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:43:56",
+      "last_verified": "2026-09-26T22:38:50",
       "price": 84610.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -351,7 +364,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/8553f9de231f.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311976.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311976.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:04",
+      "last_verified": "2026-09-26T22:38:59",
       "price": 85860.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -363,7 +376,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/4d5bc2cc49d9.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311977.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311977.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:13",
+      "last_verified": "2026-09-26T22:39:09",
       "price": 76935.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -375,7 +388,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/75d1de40ae79.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311979.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15311979.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:21",
+      "last_verified": "2026-09-26T22:39:17",
       "price": 84685.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -387,7 +400,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/0121f0bc4d8d.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15333021.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15333021.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:30",
+      "last_verified": "2026-09-26T22:39:27",
       "price": 87029.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -399,7 +412,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/dbfe8f101956.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15406008.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-150-xlt-id15406008.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:39",
+      "last_verified": "2026-09-26T22:39:37",
       "price": 87149.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -411,20 +424,19 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/21d0f26c15f2.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-350-lariat-id14948141.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-f-350-lariat-id14948141.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:47",
+      "last_verified": "2026-09-26T22:39:45",
       "price": 121629.0,
       "price_currency": "CAD",
       "condition": "new"
     },
     {
-      "name": "2026FORDMAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
+      "name": "2026FORDMAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (501A)",
       "vin": "3FTTW8S31TRB27491",
       "stock": "26T062",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/7e856b89b42e.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-lariat-id15406009.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-lariat-id15406009.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:44:57",
+      "last_verified": "2026-09-26T22:39:53",
       "price": 54445.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -436,7 +448,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/27e844460125.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-tremor-id14888772.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-tremor-id14888772.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:45:07",
+      "last_verified": "2026-09-26T22:40:00",
       "price": 52045.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -448,7 +460,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/9da724c9d596.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15161727.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15161727.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:45:17",
+      "last_verified": "2026-09-26T22:40:09",
       "price": 42345.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -460,7 +472,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/2547074e390b.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15219314.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15219314.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:45:25",
+      "last_verified": "2026-09-26T22:40:18",
       "price": 48495.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -472,7 +484,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/c560d1464a4e.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15293912.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15293912.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:45:34",
+      "last_verified": "2026-09-26T22:40:27",
       "price": 45494.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -484,7 +496,7 @@
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/new/2f6a175a79ba.html",
       "source_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15293915.htm",
       "dealer_url": "https://www.kokaneeford.com/new/vehicle/2026-ford-maverick-xlt-id15293915.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T21:45:42",
+      "last_verified": "2026-09-26T22:40:36",
       "price": 47194.0,
       "price_currency": "CAD",
       "condition": "new"
