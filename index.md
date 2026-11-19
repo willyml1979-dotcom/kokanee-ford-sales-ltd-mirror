@@ -1,6 +1,6 @@
 # Kokanee Ford Sales Ltd.
 
- dealership in Creston. AI-readable inventory mirror, about 44 vehicles.
+ dealership in Creston. AI-readable inventory mirror, about 46 vehicles.
 
 - Official website: https://www.kokaneeford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/used/

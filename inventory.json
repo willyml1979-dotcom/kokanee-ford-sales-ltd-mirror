@@ -1,10 +1,16 @@
 {
   "dealership": "Kokanee Ford Sales Ltd",
-  "generated_at": "2026-11-18T17:47:42",
-  "vehicle_count": 44,
+  "generated_at": "2026-11-18T19:14:36",
+  "vehicle_count": 46,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2017FordEdgeSport 4dr All-Wheel Drive",
+      "vin": "2FMPK4AP4HBC23532",
+      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/used/cdb4c87083d9.html",
+      "condition": "used"
+    },
     {
       "name": "2022FordEscapeTitanium 4dr All-Wheel Drive",
       "vin": "1FMCU9J97NUB31604",
@@ -69,6 +75,12 @@
       "name": "2025FordF-150XLT 4x4 SuperCrew Cab 6.5 ft. box",
       "vin": "1FTFW3L83SKE49532",
       "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/used/3c0dcf51a99b.html",
+      "condition": "used"
+    },
+    {
+      "name": "2026FordBroncoRaptor 4dr 4x4",
+      "vin": "1FMEE0RR8TLB12777",
+      "url": "https://willyml1979-dotcom.github.io/kokanee-ford-sales-ltd-mirror/used/14b3fefea7c7.html",
       "condition": "used"
     },
     {
